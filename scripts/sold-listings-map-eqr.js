@@ -158,7 +158,7 @@
                                     </div>
                                     <div class="map-listing-popup-button-container">
                                         <button><a href="#wm-popup=/contact-us-popup">Inquire</a></button>
-                                        <button><a href="${listing.ZillowURL}" target="_blank" rel="noopener noreferrer">Details</a></button>
+                                        <button><a href="${listing.ZillowURL}" target="_blank" rel="noopener noreferrer">View Listing</a></button>
                                     </div>
                                 </div>
                             </div>`;
